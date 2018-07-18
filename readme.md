@@ -18,8 +18,9 @@ Requirements for projects are the following:
 * ETL with use of at least one, and ideally two APIs (API or scraping is fine)
 * A Dash app that is connected to a Flask/sqlalchemy back end
 
-Process:
-A. Day 1
+### Process:
+
+#### Day 1
 
 1. Choose a question you want to answer with data
 
@@ -37,13 +38,13 @@ Look at some nice datasets:
 
 3. Model your database, and build your models
 
-Day 2
+#### Day 2
 
 4. Build some dummy data in your models
 * begin with some basic charts
 
 5. Integrate with API and seed database using ETL
 
-Day 3
+#### Day 3
 
 Iterate, iterate, iterate

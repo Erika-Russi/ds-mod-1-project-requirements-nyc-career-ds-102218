@@ -22,7 +22,9 @@ Process:
 A. Day 1
 
 1. Choose a question you want to answer with data
+
 For inspiration look other data projects:
+
 * [reddit - data beautiful](https://www.reddit.com/r/dataisbeautiful/)
 Look at some nice datasets:
 * [538 datasets](https://github.com/fivethirtyeight/data)
